@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.c": "c",
+		"MAIN.C": "cpp",
+		"stdlib.h": "c",
+		"so_long.h": "c"
+	},
+	"C_Cpp.intelliSenseEngineFallback": "enabled",
+	"C_Cpp.errorSquiggles": "enabled",
+	"C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
